@@ -4,3 +4,7 @@
 Access SpringBoot RESTFul API - in branch *server* 
 
 Access Angular Client Application - in branch *client*
+
+Student name: Emiliano Alejandro Bustamante Medina
+
+Student number: 300229811
